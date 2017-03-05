@@ -1,0 +1,53 @@
+<style> <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.0.4/angular.min.js"></script> </style> 
+p {
+    font-size:20px;
+color:lime; 
+	
+}
+label { font-size:20px;
+color:lime;
+}
+input {
+	font-size:14px;
+color:red;
+}
+
+.thinborder {
+    border:1px solid green;
+    width:206px;
+    height:80px;
+    background:black;
+}
+.calcbuttons {
+    padding:20px;
+}
+.numberbutton {
+    width:40px;
+}
+.operationbutton {
+    width:35px;
+}
+.calcbutton {
+width:100px;
+    background-color:green;
+    color:white;
+}
+.clearbutton {
+    width:100px;
+    background-color:green;
+    color:white;
+}
+.result {
+    color: lime;
+	background:black;
+    font-family: verdana;
+    text-align:left;
+    font-size:14px;
+}
+.calcbody {
+    background:#306;
+    width:210px;
+    padding:10px;
+    box-shadow: 5px 5px rgb(136,136,0);
+    border-radius:25px;
+}
